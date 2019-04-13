@@ -8,3 +8,4 @@ The use of the module is easy through the documented function main, and launchin
 lets you visualize the heights the slackliner went through.
 Of course you can do whatever you want with the code.
 
+The elasticity is assumed to be linear (which can be wrong, but we usually have only one value giving the elasticity under 10kN when buying a slackline)
